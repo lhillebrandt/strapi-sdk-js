@@ -71,6 +71,7 @@
   },
   "dependencies": {
     "@types/js-cookie": "^2.2.6",
+    "@types/node": "15.12.2",
     "@types/qs": "^6.9.6",
     "axios": "^0.21.1",
     "defu": "^5.0.0",
